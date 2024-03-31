@@ -6,7 +6,7 @@
   
 - 📫 Reach me @ ahmedsaghir193@gmail.com
 
-- Linkedin https://www.linkedin.com/in/ahmedsaghir/
+- 📫 Linkedin https://www.linkedin.com/in/ahmedsaghir/
 
 <!---
 AhmedSaghir-DS/AhmedSaghir-DS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
