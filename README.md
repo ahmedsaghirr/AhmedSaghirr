@@ -8,9 +8,9 @@
 
 - 📫 Linkedin https://www.linkedin.com/in/ahmedsaghir/
 
-- ![](https://komarev.com/ghpvc/?username=AhmedSaghir-DS&style=plastic)
+- ![](https://komarev.com/ghpvc/?username=AhmedSaghirr-DS&style=plastic)
 
 <!---
-AhmedSaghir-DS/AhmedSaghir-DS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AhmedSaghir-DS/AhmedSaghirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
