@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedSaghirr
   
-- 👀 I do projects in Excel, Power BI, SQL, Python, GIS, EDA
+- 👀 I do projects in Excel, Power BI, SQL, Python, GIS, EDA, ML, CV, NLP
   
 - 🌱 I’m currently learning ML, Natural Language Processing, Computer Vision
   
