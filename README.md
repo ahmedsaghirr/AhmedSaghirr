@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @AhmedSaghirr
   
-- 👀 I do projects in Advanced Excel, Power BI, SQL, Python, GIS, EDA, ML, DL, CV, NLP, LLM, MLOPs
+- 👀 I do projects in Advanced Excel, Power BI, SQL, Python, GIS, EDA, ML, DL, CV, NLP, LLM, MLOps
   
 - 🌱 I’m currently learning ML, Natural Language Processing, Computer Vision
   
 - 📫 Reach me @ ahmedsaghir193@gmail.com
 
 - 📫 Linkedin https://www.linkedin.com/in/ahmedsaghir/
+
+- 📫 Kaggle https://www.kaggle.com/ahmedsaghir
 
 - 📫 Hugging Face https://huggingface.co/AhmedSaghir
 
